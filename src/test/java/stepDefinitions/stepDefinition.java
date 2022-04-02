@@ -37,6 +37,8 @@ public class stepDefinition {
 	@And("^Cards are displayed \"([^\"]*)\"$")
     public void cards_are_displayed_something(String strArg1) throws Throwable {
 		System.out.println("Validation of card display - " + strArg1);
+		System.out.println("hello");
+		System.out.println("hello1");
     }
 
 }
