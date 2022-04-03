@@ -32,4 +32,19 @@ public class AppTest
     public void demo2() {
     	System.out.println(123);
     }
+    
+    @Test
+    public void demo4() {
+    	System.out.println(123);
+    }
+    
+    @Test
+    public void demo15() {
+    	System.out.println(123);
+    }
+    
+    @Test
+    public void demo26() {
+    	System.out.println(123);
+    }
 }
