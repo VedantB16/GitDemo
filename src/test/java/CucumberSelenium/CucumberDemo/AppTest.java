@@ -17,4 +17,19 @@ public class AppTest
     {
         assertTrue( true );
     }
+    
+    @Test
+    public void demo() {
+    	System.out.println(123);
+    }
+    
+    @Test
+    public void demo1() {
+    	System.out.println(123);
+    }
+    
+    @Test
+    public void demo2() {
+    	System.out.println(123);
+    }
 }
